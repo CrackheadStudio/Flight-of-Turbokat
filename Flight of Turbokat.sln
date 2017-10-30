@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight of Turbokat", "Flight of Turbokat.csproj", "{2FDA880C-6E7C-B98B-1E1C-AE137BDD4C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight of Turbokat.Plugins", "Flight of Turbokat.Plugins.csproj", "{2F353F5E-A793-6C9A-F102-C5A2570F3E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDA880C-6E7C-B98B-1E1C-AE137BDD4C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDA880C-6E7C-B98B-1E1C-AE137BDD4C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDA880C-6E7C-B98B-1E1C-AE137BDD4C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDA880C-6E7C-B98B-1E1C-AE137BDD4C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F353F5E-A793-6C9A-F102-C5A2570F3E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F353F5E-A793-6C9A-F102-C5A2570F3E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F353F5E-A793-6C9A-F102-C5A2570F3E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F353F5E-A793-6C9A-F102-C5A2570F3E31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
